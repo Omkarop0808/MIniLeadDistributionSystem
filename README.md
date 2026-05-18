@@ -58,6 +58,4 @@ To prevent accidental quota resets (e.g., from network retries or duplicate webh
 
 ---
 
-## 🧪 Manual Testing
 
-A dedicated `MANUAL_TESTING.md` file is included in the repository root containing step-by-step instructions to verify idempotency, concurrency, fair distribution, and duplicate lead rejections. A built-in `/test-tools` route is also provided to quickly simulate heavy loads and trigger the reset webhooks.
