@@ -1,8 +1,7 @@
 # ⚡ Prowider — Advanced Lead Distribution Engine
 
-<img width="1272" height="910" alt="Screenshot 2026-05-18 085812" src="https://github.com/user-attachments/assets/1e3c7347-6f21-4c05-8ffa-d917273123a1" />
-
 An industrial-grade, real-time, concurrency-safe lead distribution engine built using a high-performance **Next.js 15 App Router** architecture, **MongoDB**, and a custom **Neo-Brutalist** design system. Designed specifically to handle high-frequency incoming request traffic, complex routing rules, and strict transactional consistency.
+<img width="1272" height="910" alt="Screenshot 2026-05-18 085812" src="https://github.com/user-attachments/assets/1e3c7347-6f21-4c05-8ffa-d917273123a1" />
 
 ---
 
