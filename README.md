@@ -1,5 +1,7 @@
 # ⚡ Prowider — Advanced Lead Distribution Engine
 
+<img width="1272" height="910" alt="Screenshot 2026-05-18 085812" src="https://github.com/user-attachments/assets/1e3c7347-6f21-4c05-8ffa-d917273123a1" />
+
 An industrial-grade, real-time, concurrency-safe lead distribution engine built using a high-performance **Next.js 15 App Router** architecture, **MongoDB**, and a custom **Neo-Brutalist** design system. Designed specifically to handle high-frequency incoming request traffic, complex routing rules, and strict transactional consistency.
 
 ---
@@ -10,6 +12,8 @@ An industrial-grade, real-time, concurrency-safe lead distribution engine built 
 *   **Live Production URL**: [m-ini-lead-distribution-system.vercel.app](https://m-ini-lead-distribution-system.vercel.app/)
 
 ---
+<img width="1717" height="901" alt="Screenshot 2026-05-18 085737" src="https://github.com/user-attachments/assets/67b3ccf9-d5fe-4481-bb0e-fa0e1a0761b5" />
+<img width="1541" height="898" alt="Screenshot 2026-05-18 085746" src="https://github.com/user-attachments/assets/de12dbbb-322a-480c-adb0-73d7928b4150" />
 
 ## ✨ Core Features
 
